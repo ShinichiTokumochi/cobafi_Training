@@ -1,0 +1,5 @@
+*.html
+.python-version
+.vscode/
+__pycache__/
+venv*
